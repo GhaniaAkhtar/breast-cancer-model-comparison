@@ -1,5 +1,3 @@
-# breast-cancer-model-comparison
-
 # Breast Cancer Model Comparison
 
 AI Track internship task — comparing two classification models on the same dataset using a fair, single train-test split.
